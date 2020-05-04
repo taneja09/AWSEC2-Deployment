@@ -92,3 +92,4 @@
 ![](Serverless.png)
 
 `Author: Divya Taneja`
+`Email: taneja.di@northeastern.edu`
