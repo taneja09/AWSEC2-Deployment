@@ -65,7 +65,7 @@
 
 ## CI/CD Pipeline - AMI - Hashicorp Packer
 
-[Hashi Corp Packer Code Repository](https://github.com/taneja09/AMIAutomation-HashiCorpPacker)
+[HashiCorp Packer Code Repository](https://github.com/taneja09/AMIAutomation-HashiCorpPacker)
 
 * Automated AMI creation using Hashicorp packer
 * Created AMI template to share the image between multiple AWS accounts
