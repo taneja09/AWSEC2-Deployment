@@ -2,7 +2,7 @@
 
 ## Deploying a web application on AWS-EC2
 
-[Application Code Link](https://github.com/taneja09/AWSEC2-WebAPP)
+[Web Application Code Repository](https://github.com/taneja09/AWSEC2-WebAPP)
 
 **Application Use Cases:**
 
