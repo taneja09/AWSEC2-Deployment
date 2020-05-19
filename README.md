@@ -2,6 +2,8 @@
 
 ## Deploying a web application on AWS-EC2
 
+[Application Code Link](https://github.com/taneja09/AWSEC2-WebAPP)
+
 **Application Use Cases:**
 
 * Application manages Billing invoices for the customer
@@ -52,7 +54,9 @@
 
 ![](AWSArchitecture.png)
 
-## Infrastructure - Cloud Formation
+## Infrastructure - Cloud Formation 
+
+[Cloud Formation Repository](https://github.com/taneja09/AWS-ResourceAutomation)
 
 * created custom VPC with network setup using cloud formation template
 * Attached Load balancers, auto scaling groups, SES, SQS and SNS services
@@ -60,6 +64,8 @@
 * Implemented Lambda function for emailing service 
 
 ## CI/CD Pipeline - AMI - Hashicorp Packer
+
+[Hashi Corp Packer Code Repository](https://github.com/taneja09/AMIAutomation-HashiCorpPacker)
 
 * Automated AMI creation using Hashicorp packer
 * Created AMI template to share the image between multiple AWS accounts
@@ -81,6 +87,8 @@
 * Implemented CPU Utilization based alarms for changing number of instances in auto scaling group
 
 ## Serverless Computing - Lambda 
+
+[Serverless Lambda Code Repository](https://github.com/taneja09/AWSLambda-Serverless)
 
 * Implemented pub/sub mechanism with SNS and Lambda function
 * user requesting for his due bills, puts a message onto the AWS SQS service
